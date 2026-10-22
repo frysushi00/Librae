@@ -1,5 +1,7 @@
 # Librae 📚
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=consolas&size=30&duration=2000&pause=500&color=F7C913&vCenter=true&width=435&lines=%F0%9F%93%9A+LIBRAE;Scan;Extract;and+Get+Books+Recs!)](https://git.io/typing-svg)
+
 **An all-in-one AI-powered book detection, text extraction, and recommendation app for Android.**
 
 Librae makes discovering your next favorite book easier. Simply point your camera at a book cover, and Librae uses machine learning and computer vision to detect the book, extract its title and author, and recommend similar books based on their content.
